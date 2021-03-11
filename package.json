@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": "15.1.0",
+    "npm": "7.6.2"
+  },
   "author": "Zeel Pathak",
   "license": "ISC",
   "dependencies": {
