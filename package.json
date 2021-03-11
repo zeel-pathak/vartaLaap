@@ -4,8 +4,8 @@
   "description": "A peer to peer encrypted chat application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node index.js"
+  }
   "author": "Zeel Pathak",
   "license": "ISC",
   "dependencies": {
